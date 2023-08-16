@@ -1,1 +1,6 @@
-ref: refs/heads/main
+0000000000000000000000000000000000000000 869a7117e4420881b5d229dbcc6f3526e4e8ed1e huong.nguyen7 <huong.nguyen7@be.com.vn> 1688745431 +0700	commit (initial): initial commit
+869a7117e4420881b5d229dbcc6f3526e4e8ed1e 33a93f01e00fd721139dde55c31e1db4e6e27965 huong.nguyen7 <huong.nguyen7@be.com.vn> 1688746146 +0700	commit: update
+33a93f01e00fd721139dde55c31e1db4e6e27965 2e2d14a630bc91329b696902b513ac694df2fd48 huong.nguyen7 <huong.nguyen7@be.com.vn> 1688746427 +0700	commit: update port
+2e2d14a630bc91329b696902b513ac694df2fd48 263d5842a05ec9fd4c1fdc2b752283fc2f673789 huong.nguyen7 <huong.nguyen7@be.com.vn> 1689141245 +0700	commit: fix bug
+263d5842a05ec9fd4c1fdc2b752283fc2f673789 773efb27a5a02c9187c1548711e494dd1c3612fd huong.nguyen7 <huong.nguyen7@be.com.vn> 1689141599 +0700	commit: fix load
+773efb27a5a02c9187c1548711e494dd1c3612fd e79eee88f633d4fc8ea0cb3913e56bc6141dff4c Nguyen Thi Thu Huong <ntthuonghg@gmail.com> 1691767076 +0700	commit: add ducuments
